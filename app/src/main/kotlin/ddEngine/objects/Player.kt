@@ -1,4 +1,4 @@
-package ddEngine.objects;
+package ddEngine.objects
 
 class Player() {
 }
